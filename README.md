@@ -36,9 +36,9 @@ Product filtering web page allowing users to search and filter products based on
 
 - same as an original
 
-# 20th of 20 Vanilla Javascript projects
+# 20th of 20 Vanilla Javascript project
 
-| ID | Název | URL Dokaz |
+| ID | Project | URL Link |
 |---|---|---|
 | 1 | Form Validator | [GitHub link](https://github.com/pettik/Udemy--vanillawebprojects-01) |
 | 2 | Movie Seat Booking | [GitHub link](https://github.com/pettik/Udemy--vanillawebprojects-02) |
