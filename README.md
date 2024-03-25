@@ -36,7 +36,7 @@ Product filtering web page allowing users to search and filter products based on
 
 - same as an original
 
-# 20th of 20 Vanilla Javascript project
+# 20th of 20 Vanilla Javascript projects
 
 | ID | Project | URL Link |
 |---|---|---|
